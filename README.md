@@ -14,16 +14,16 @@ Implemented changes was provided with appropriate comments in the whole code.
 
 ## Usage
 
-Website <a src="https://martamilewczyk.github.io/challenge-1/">hosted</a> on Github Pages
+Website <a href="https://martamilewczyk.github.io/challenge-1/">hosted</a> on Github Pages
 
 ![website screenshot](assets/images/screenshot2.png) <br>
 ![website screenshot](assets/images/screenshot1.png)
 
 ## Credits
 
-<li><a src="https://github.com/">Github</a></li>
+<li><a href="https://github.com/">Github</a></li>
 
-<li><a src="https://code.visualstudio.com/">VS Code</a></li>
+<li><a href="https://code.visualstudio.com/">VS Code</a></li>
 
 <li>Bootcamp tutorial - lack of possibility to share link as it is private asset of Company</li> 
 
